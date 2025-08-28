@@ -38,7 +38,7 @@ Silly Demo Pitch -> https://github.com/zpilitowska1/food-recognition-cnn/blob/ma
 
 ---
 
-## 🌍 Business Value  
+## Business Value  
 
 Based on market research (see `[Business-Understanding-Market-Research.pdf](https://github.com/zpilitowska1/food-recognition-cnn/blob/main/Business-Understanding-Market-Research.pdf)`):  
 
@@ -54,9 +54,6 @@ Based on market research (see `[Business-Understanding-Market-Research.pdf](http
 ## Future Work
 
 - Expand dataset to cover more Dutch and international foods.
-
 - Experiment with transfer learning (ResNet, EfficientNet, MobileNet).
-
 - Deploy as a mobile/web app for real-time food recognition.
-
 - Integrate nutritional analysis and personalized diet tracking.
