@@ -1,8 +1,10 @@
-# 🍽Food Recognition with Convolutional Neural Networks (CNN)
+# Food Recognition with Convolutional Neural Networks (CNN)
 
 This project combines **Deep Learning** with **market insights** to build an AI-powered food recognition system. It explores how Convolutional Neural Networks (CNNs) can automatically classify food images and lays the foundation for applications such as **ingredient recognition, nutritional transparency, and cultural awareness** in Dutch cuisine.
 
-Project Presentation, Interface Prototype -> https://github.com/zpilitowska1/food-recognition-cnn/blob/main/FoodClassification_Presentation.pdf 
+Project Presentation, Interface Prototype -> https://github.com/zpilitowska1/food-recognition-cnn/blob/main/FoodClassification_Presentation.pdf
+
+
 Silly Demo Pitch -> https://github.com/zpilitowska1/food-recognition-cnn/blob/main/Demo%20video%209_04.mp4 
 
 ---
